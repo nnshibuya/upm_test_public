@@ -1,8 +1,9 @@
 {
     "name": "jp.co.nextninja.upm_test_public",
-    "displayName": "upm_test",
     "version": "1.0.0",
+    "displayName": "upm_test",
     "description": "upm_test Description",
+    "unity": "2022.3",
     "author": {
         "name": "nnshibuya",
         "url": "https://github.com/nnshibuya/upm_test_public"
